@@ -1,0 +1,7 @@
+com/google/android/gcm/server/MessageTest.class
+com/google/android/gcm/server/ResultTest.class
+com/google/android/gcm/server/SenderTest.class
+com/google/android/gcm/server/MulticastResultTest.class
+com/google/android/gcm/server/NotificationTest.class
+com/google/android/gcm/server/SenderTest$1.class
+com/google/android/gcm/server/InvalidRequestExceptionTest.class

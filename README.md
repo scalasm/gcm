@@ -1,3 +1,8 @@
+# *** This is temporary fork to work around the dismissal of GCM in favour of FCM by Google. ***
+
+It will become obsolete once Google closes GCM (see [this](https://developers.google.com/cloud-messaging/android/android-migrate-fcm) for more details)
+
+
 # Google Cloud Messaging
 
 Google Cloud Messaging (GCM) is a service that lets developers send data from
